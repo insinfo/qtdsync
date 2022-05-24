@@ -1,0 +1,2 @@
+#define SVNREVISION 0
+#define SVNREPOSITORY ""
